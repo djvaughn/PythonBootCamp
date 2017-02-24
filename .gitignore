@@ -141,3 +141,4 @@ fabric.properties
 # *.ipr
 .idea/markdown-navigator.xml
 .idea/markdown-navigator/
+.idea/
